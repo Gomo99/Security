@@ -1,1 +1,77 @@
-{"pin_hash": "b99bcf0dcc11cf3db2e549c248242ef4e88fbd99852899f568a0c66bcdd0166a", "totp_secret": "PHRIVU5IGZ3HONGNYYQPZNHV33DKRMQJ", "last_totp_step": null, "backup_codes": [{"hash": "20b5eba7b1f5364e42af51090038fc066a8eeca96001b5851902803b5dad75c4", "used": true}, {"hash": "32a38a2a8a5d72274ccea2a2f7c58e8fec75b4c55f0b00b7645a009724bdc82f", "used": false}, {"hash": "4f27876a78134d11e0372f5f181e81dfe200c3c74422eda52c10d5f2b37415dd", "used": false}, {"hash": "c7d46102e37989366174169b8005b6412969abd69b99b2d2e484e2079a5d8cae", "used": false}, {"hash": "743a1ca2fc040a6a104b28e2dc6040dde8444771d24ea4e262913767be55b8ec", "used": false}, {"hash": "3bf5b720420ea10bb2b36f958330f17af0630ad64e6423fe4970dc8d352dca6e", "used": false}, {"hash": "1934189d7c8208f08f4f28d8d8db75ec4be5a9ee95f0afbde5800b9bdebd5761", "used": false}, {"hash": "5eba1cfe8a00cdb98a90de811c415f13059b695541a168f8de8f9a32c6cfca34", "used": false}, {"hash": "a26ae5f7852b6335e9714038116656aecdc5ab69cbbccbba3e7d6f4050d21b39", "used": false}, {"hash": "069f4288332a5759433d8ec7d34c9aa48a59e1c75e8c2df6bec3cf8fa3cc833d", "used": false}], "device_token_hash": "cbbf104ccc6489268a1b8101a4fb171fdf72a874ba1a62218e8fb2f11af79734", "device_token_expiry": 1789490242, "device_label": "DESKTOP-8U7OJEQ", "last_login": 1786898239, "settings": {"session_timeout": 300, "totp_interval": 30, "lock_behavior": "windowed", "theme": "dark"}}
+{
+  "pin_hash": "b99bcf0dcc11cf3db2e549c248242ef4e88fbd99852899f568a0c66bcdd0166a",
+  "pin_salt": null,
+  "totp_secret": "PHRIVU5IGZ3HONGNYYQPZNHV33DKRMQJ",
+  "last_totp_step": null,
+  "backup_codes": [
+    {
+      "hash": "20b5eba7b1f5364e42af51090038fc066a8eeca96001b5851902803b5dad75c4",
+      "used": true
+    },
+    {
+      "hash": "32a38a2a8a5d72274ccea2a2f7c58e8fec75b4c55f0b00b7645a009724bdc82f",
+      "used": false
+    },
+    {
+      "hash": "4f27876a78134d11e0372f5f181e81dfe200c3c74422eda52c10d5f2b37415dd",
+      "used": false
+    },
+    {
+      "hash": "c7d46102e37989366174169b8005b6412969abd69b99b2d2e484e2079a5d8cae",
+      "used": false
+    },
+    {
+      "hash": "743a1ca2fc040a6a104b28e2dc6040dde8444771d24ea4e262913767be55b8ec",
+      "used": false
+    },
+    {
+      "hash": "3bf5b720420ea10bb2b36f958330f17af0630ad64e6423fe4970dc8d352dca6e",
+      "used": false
+    },
+    {
+      "hash": "1934189d7c8208f08f4f28d8d8db75ec4be5a9ee95f0afbde5800b9bdebd5761",
+      "used": false
+    },
+    {
+      "hash": "5eba1cfe8a00cdb98a90de811c415f13059b695541a168f8de8f9a32c6cfca34",
+      "used": false
+    },
+    {
+      "hash": "a26ae5f7852b6335e9714038116656aecdc5ab69cbbccbba3e7d6f4050d21b39",
+      "used": false
+    },
+    {
+      "hash": "069f4288332a5759433d8ec7d34c9aa48a59e1c75e8c2df6bec3cf8fa3cc833d",
+      "used": false
+    }
+  ],
+  "device_token_hash": "cbbf104ccc6489268a1b8101a4fb171fdf72a874ba1a62218e8fb2f11af79734",
+  "device_token_expiry": 1789490242,
+  "device_label": "DESKTOP-8U7OJEQ",
+  "last_login": 1786898239,
+  "settings": {
+    "session_timeout": 300,
+    "totp_interval": 30,
+    "lock_behavior": "windowed",
+    "theme": "dark",
+    "language": "English",
+    "notifications": "enabled",
+    "pin_policy": "standard",
+    "device_duration": 30,
+    "device_naming": "auto",
+    "auto_revoke": "enabled",
+    "failed_attempt_policy": "progressive",
+    "security_logging": "enabled",
+    "clipboard_clearing": "30",
+    "auto_lock": "disabled",
+    "backup_code_count": 10,
+    "backup_code_length": 8,
+    "recovery_policy": "standard"
+  },
+  "last_failed_pin_time": null,
+  "last_failed_totp_time": 1787146189,
+  "last_failed_backup_time": null,
+  "failed_attempts_today": 10,
+  "failed_attempts_date": "2026-08-19",
+  "backup_codes_generated_at": null
+}
